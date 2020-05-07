@@ -1,0 +1,40 @@
+html{
+    overflow-x: hidden;
+
+}
+
+.p1{
+    font-size: 12px;
+   
+}
+.btn1{
+    color: red;
+    font-size: 12px;    
+}
+.btn2{
+    color: red;
+    font-size: 12px;
+}
+.btn3{
+    color: red;
+    font-size: 12px;
+}
+.td1{
+    background-color: whitesmoke !important;
+}
+.btn:hover{
+background-color: blue;
+}
+.intro{
+    background-color: whitesmoke !important;
+}
+.five{
+    font-size: 20px;
+}
+.dv{
+    margin-top: 10em;
+}
+.oneTwo{
+    margin-right: 4em;
+
+}
